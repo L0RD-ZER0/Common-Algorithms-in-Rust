@@ -12,6 +12,7 @@ Contents
 --------
 ### Search Algorithms:
 * [Linear-Search](searches/linear.rs)
+* [Binary-Search](searches/binary.rs)
 
 
 How to Run
@@ -23,3 +24,5 @@ cargo run --bin <binary-name>
 For available binary names, consider checking `[[bin]]` sections within the [Cargo.toml] 
 file. Due to presence of multiple binaries, using `cargo run` results in an error.
 
+
+[Rust]: https://www.rust-lang.org/

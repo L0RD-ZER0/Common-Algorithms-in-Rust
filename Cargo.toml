@@ -11,4 +11,8 @@ path = "common/lib.rs"
 name="linear-search"
 path="searches/linear.rs"
 
+[[bin]]
+name="binary-search"
+path="searches/binary.rs"
+
 [dependencies]
