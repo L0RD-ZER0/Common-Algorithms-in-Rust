@@ -7,4 +7,8 @@ edition = "2021"
 name = "common"
 path = "common/lib.rs"
 
+[[bin]]
+name="linear-search"
+path="searches/linear.rs"
+
 [dependencies]

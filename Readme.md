@@ -1,15 +1,18 @@
 Common-Algorithms
 =================
 
-This repository contains my implementations for common angorithms in [Rust] 
-programming language. This repository is created to practice [Rust] by implememting
-various algoritms and solutions for common programming problems.
+This repository contains my implementations for common algorithms in [Rust] 
+programming language. This repository is created to practice [Rust] by implementing
+various algorithms and solutions for common programming problems.
 
 Each solution has a rust file. In case of a solution with multiple implementations,
 various solutions will be included in the corresponding file or module.
 
 Contents
 --------
+### Search Algorithms:
+* [Linear-Search](searches/linear.rs)
+
 
 How to Run
 ----------
