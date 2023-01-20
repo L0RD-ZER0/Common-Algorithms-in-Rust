@@ -19,6 +19,7 @@ Contents
 * [Bubble-Sort](sorts/bubble.rs)
 * [Selection-Sort](sorts/selection.rs)
 * [Merge-Sort](sorts/merge.rs)
+* [Quick-Sort](sorts/quick.rs)
 
 How to Run
 ----------

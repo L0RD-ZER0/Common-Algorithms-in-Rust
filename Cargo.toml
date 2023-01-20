@@ -31,4 +31,8 @@ path="sorts/selection.rs"
 name="merge-sort"
 path="sorts/merge.rs"
 
+[[bin]]
+name="quick-sort"
+path="sorts/quick.rs"
+
 [dependencies]
