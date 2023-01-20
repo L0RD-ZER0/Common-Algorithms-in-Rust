@@ -19,4 +19,8 @@ path="searches/binary.rs"
 name="insertion-sort"
 path="sorts/insertion.rs"
 
+[[bin]]
+name="bubble-sort"
+path="sorts/bubble.rs"
+
 [dependencies]

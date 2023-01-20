@@ -16,6 +16,7 @@ Contents
 
 ### Sorting Algorithms:
 * [Insertion-Sort](sorts/insertion.rs)
+* [Bubble-Sort](sorts/bubble.rs)
 
 How to Run
 ----------
