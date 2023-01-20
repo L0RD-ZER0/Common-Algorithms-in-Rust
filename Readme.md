@@ -14,6 +14,8 @@ Contents
 * [Linear-Search](searches/linear.rs)
 * [Binary-Search](searches/binary.rs)
 
+### Sorting Algorithms:
+* [Insertion-Sort](sorts/insertion.rs)
 
 How to Run
 ----------

@@ -15,4 +15,8 @@ path="searches/linear.rs"
 name="binary-search"
 path="searches/binary.rs"
 
+[[bin]]
+name="insertion-sort"
+path="sorts/insertion.rs"
+
 [dependencies]
