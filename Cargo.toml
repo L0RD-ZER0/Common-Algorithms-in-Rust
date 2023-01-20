@@ -27,4 +27,8 @@ path="sorts/bubble.rs"
 name="selection-sort"
 path="sorts/selection.rs"
 
+[[bin]]
+name="merge-sort"
+path="sorts/merge.rs"
+
 [dependencies]

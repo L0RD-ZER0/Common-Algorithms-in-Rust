@@ -18,6 +18,7 @@ Contents
 * [Insertion-Sort](sorts/insertion.rs)
 * [Bubble-Sort](sorts/bubble.rs)
 * [Selection-Sort](sorts/selection.rs)
+* [Merge-Sort](sorts/merge.rs)
 
 How to Run
 ----------
