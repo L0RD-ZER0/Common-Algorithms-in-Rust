@@ -17,6 +17,7 @@ Contents
 ### Sorting Algorithms:
 * [Insertion-Sort](sorts/insertion.rs)
 * [Bubble-Sort](sorts/bubble.rs)
+* [Selection-Sort](sorts/selection.rs)
 
 How to Run
 ----------
@@ -29,3 +30,4 @@ file. Due to presence of multiple binaries, using `cargo run` results in an erro
 
 
 [Rust]: https://www.rust-lang.org/
+[Cargo.toml]: ./Cargo.toml

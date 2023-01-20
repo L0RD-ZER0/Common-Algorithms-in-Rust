@@ -23,4 +23,8 @@ path="sorts/insertion.rs"
 name="bubble-sort"
 path="sorts/bubble.rs"
 
+[[bin]]
+name="selection-sort"
+path="sorts/selection.rs"
+
 [dependencies]
